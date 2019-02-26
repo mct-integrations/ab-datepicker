@@ -1,0 +1,10 @@
+{
+    "name": "ab-datepicker",
+    "version": "v2.1.5",
+    "description": "An accessible and bootstrap compatible datepicker",
+    "keywords": ["datepicker", "accessibility", "accessible datepicker"],
+    "repository": "https://github.com/mct-integrations/ab-datepicker.git",
+    "homepage": "https://github.com/eureka2/ab-datepicker",
+    "author": "Eureka2 - Jacques Archimède",
+    "license": "MIT"
+}
