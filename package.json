@@ -1,6 +1,6 @@
 {
     "name": "ab-datepicker",
-    "version": "v2.1.5",
+    "version": "v2.1.5-r",
     "description": "An accessible and bootstrap compatible datepicker",
     "keywords": ["datepicker", "accessibility", "accessible datepicker"],
     "repository": "https://github.com/mct-integrations/ab-datepicker.git",
